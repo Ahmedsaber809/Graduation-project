@@ -1,6 +1,3 @@
-# SQL Queries
-
-```sql
 
 -- Retrieves the total sales from the order_table.
 SELECT 
