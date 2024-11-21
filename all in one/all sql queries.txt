@@ -1,3 +1,7 @@
+# SQL Queries
+
+```sql
+
 -- Retrieves the total sales from the order_table.
 SELECT 
     ROUND(SUM(sales), 2) AS total_sales
